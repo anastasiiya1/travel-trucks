@@ -90,8 +90,6 @@
 .description {
   display: -webkit-box;
   width: 100%;
-  -webkit-box-orient: vertical;
-  -webkit-line-clamp: 1;
 
   overflow: hidden;
   color: #475467;
